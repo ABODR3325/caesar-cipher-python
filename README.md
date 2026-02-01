@@ -38,7 +38,7 @@ cd caesar-cipher-python
 
 ###3️⃣ Run the Program
 python caesar.py
-
+---
 ## 📖 How It Works
 
 1.Choose input type:
@@ -50,16 +50,16 @@ python caesar.py
 3.Enter shift value (0–25)
 4.View result on screen or in results.txt
 
-
+---
  ## 🧪 Example
 Input:  HELLO
 Shift:  3
 Output: KHOOR
-
+---
  ## 👨‍💻 Author
 
 Dilshan Wijayawardhane
-
+---
  ## 📜 License
 
 This project is licensed under the MIT License.
