@@ -31,13 +31,12 @@ Supports both **console input** and **file-based processing**.
 
 ### 1️⃣ Clone the Repository
 
-```bash
 git clone https://github.com/your-username/caesar-cipher-python.git
 
 ###2️⃣ Navigate to Project Folder
 cd caesar-cipher-python
 
- ###3️⃣ Run the Program
+###3️⃣ Run the Program
 python caesar.py
 
 ## 📖 How It Works
