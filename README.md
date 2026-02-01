@@ -31,7 +31,7 @@ Supports both **console input** and **file-based processing**.
 
 ### 1️⃣ Clone the Repository
 
-git clone https://github.com/your-username/caesar-cipher-python.git
+git clone https://github.com/Dilshan-wijayawardhane/caesar-cipher-python.git
 
 2️⃣ Navigate to Project Folder
 cd caesar-cipher-python
